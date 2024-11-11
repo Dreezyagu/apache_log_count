@@ -1,0 +1,5 @@
+domain: nasa.gov					Count: 224333
+domain: aol.com						Count: 116256
+domain: netcom.com					Count: 90585
+domain: compuserve.com				Count: 83196
+domain: prodigy.com					Count: 71213
